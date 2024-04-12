@@ -19,14 +19,16 @@ Here are some ideas to get you started:
 const profile = {
   name: 'Ananda Maulana Wahyudi',
   bio: 'Freelancer|Programmer',
+  languages: ['English', 'Indonesia'], 
   url: 'https://anandamw.site/',
   skills: {
-    frondend: [Javascript, ReactJs, TailwindCSS, Bootstrap],
-    backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
-    tools: [Git, Github, VSCode, Postman, Docker],
-    os: [Linux, Windows],
+    frontend: ['Javascript', 'ReactJs', 'TailwindCSS', 'Bootstrap'], 
+    backend: ['PHP', 'Laravel', 'Flutter', 'NodeJs', 'ExpressJs'],
+    tools: ['Git', 'Github', 'VSCode', 'Postman', 'Docker'],
+    os: ['Linux', 'Windows'],
   },
   location: 'Indonesia, JawaTimur',
-  hobbies: [Coding, Photography, Travelling],
-};
+  hobbies: ['Coding', 'Photography', 'Travelling'],
+}; 
+
 ```
