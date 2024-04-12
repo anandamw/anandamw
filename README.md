@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ananda Maulana Wahyudi | Bio Banner](/img/banner.png)
+<!-- ![Ananda Maulana Wahyudi | Bio Banner](/img/banner.png) -->
 
+<img align="center"
+  src="./img/banner.png"
+alt="banner"
+/>
 <h2>I'm Ananda Maulana Wahyudi! 👋</h2>
 
 ```js
