@@ -17,18 +17,17 @@ Here are some ideas to get you started:
 
 ```js
 const profile = {
-  name: 'Ananda Maulana Wahyudi',
-  bio: 'Freelancer|Programmer',
-  languages: ['English', 'Indonesia'], 
-  url: 'https://anandamw.site/',
+  name: "Ananda Maulana Wahyudi",
+  bio: "Freelancer|Programmer",
+  url: "https://anandamw.site/",
   skills: {
-    frontend: ['Javascript', 'ReactJs', 'TailwindCSS', 'Bootstrap'], 
-    backend: ['PHP', 'Laravel', 'Flutter', 'NodeJs', 'ExpressJs'],
-    tools: ['Git', 'Github', 'VSCode', 'Postman', 'Docker'],
-    os: ['Linux', 'Windows'],
+    frondend: [Javascript, ReactJs, TailwindCSS, Bootstrap],
+    backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
+    tools: [Git, Github, VSCode, Postman, Docker],
+    os: [Linux, Windows],
   },
-  location: 'Indonesia, JawaTimur',
-  hobbies: ['Coding', 'Photography', 'Travelling'],
-}; 
-
+  location: "Indonesia, JawaTimur",
+  Language: "English, Indonesia",
+  hobbies: [Coding, Photography, Travelling],
+};
 ```
