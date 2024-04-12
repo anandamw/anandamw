@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 const profile = {
   name: 'Ananda Maulana Wahyudi',
   bio: 'Do anything, but let it produce joy',
-  url: 'http://anandamw.site/',
+  url: 'https://anandamw.site/',
   skills: {
     frondend: [Javascript, ReactJs, TailwindCSS, Bootstrap],
     backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
