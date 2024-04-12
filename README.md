@@ -30,9 +30,7 @@ const profile = {
   location: "Indonesia, JawaTimur",
   hobbies: [Coding, Photography, Travelling],
 };
-
 ```
-
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.hidaytrahman)](https://github.com/hidaytrahman) [![GitHub followers](https://img.shields.io/github/followers/hidaytrahman.svg?style=social&label=Follow)](https://github.com/hidaytrahman?tab=followers)
 
@@ -48,6 +46,7 @@ href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 <br />
 
 📊 **Stat:**
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -111,7 +110,6 @@ No activity tracked
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 
-
 <br />
 <br />
 <h2>👀 Stats</h2>
@@ -145,6 +143,6 @@ No activity tracked
 
 Connect me on <a href="https://www.linkedin.com/in/hidaytrahman/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
--   Read Articles on [Dev.to](https://dev.to/hidaytrahman)
--   Say Hi on [Skype](skype:live:hidaytrahman?cal)
--   Also available on [Twitter](https://twitter.com/hidaytrahman) , [StackOverflow](https://stackoverflow.com/users/2927228/hidayt-rahman) , [Instagram](http://instagram.com/hidaytrahman)
+- Read Articles on [Dev.to](https://dev.to/hidaytrahman)
+- Say Hi on [Skype](skype:live:hidaytrahman?cal)
+- Also available on [Twitter](https://twitter.com/hidaytrahman) , [StackOverflow](https://stackoverflow.com/users/2927228/hidayt-rahman) , [Instagram](http://instagram.com/hidaytrahman)
