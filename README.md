@@ -1,61 +1,157 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<!--
+**hidaytrahman/hidaytrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+Here are some ideas to get you started:
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![Hidayt Rahman | Bio Banner](banner-transparent.png)
+
+<h2>I'm Hidayt Rahman! 👋</h2>
+
+```js
+const profile = {
+  name: "Hidayt Rahman",
+  bio: "I am a Senior front-end / MERN stack developer, and I have 10+ years of experience.",
+  skills: {
+     frontend: ["React", "JavaScript",  "TypeScript", "SCSS"],
+     backend: ["Node", "NestJS",  "MongoDB", "REST API"],
+     framework: ["NextJS", "ExpressJS", "Angular", "Bootstrap", "TailwindCSS", "MUI"],
+     architectures: [
+      "Monolithic Architecture",
+      "Modular Architecture",
+      "Component-Based Architecture",
+      "Single Page Application - SPA",
+      "BFF Pattern - Backend for front-end"
+
+     ],
+     tools: ["Github", "Jira", "CI & CD", "Figma", "Photoshop", "XCode", "NPM", "Yarn", "Postman", "GCP", "Github Actions", "Rest Clients"],
+     os: ["macOS", "Windows", "Linux"],
+     hobbies: [</> 💻, 📷, 🧳, ]
+  }
+}
+```
 
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.hidaytrahman)](https://github.com/hidaytrahman) [![GitHub followers](https://img.shields.io/github/followers/hidaytrahman.svg?style=social&label=Follow)](https://github.com/hidaytrahman?tab=followers)
 
-- 💬 Ask me about **react, vue and gsap**
+<h3>In ♥️ with 👩🏽‍💻 Coding, 📷 <a 
+style="color: #fff; border-radius: 5px;margin: 10px 0; display: inline-block" href="https://www.instagram.com/clickimaginehr/" target="_blank">Photography</a> and Travelling <br />
+Specially ! JavaScript (ES6), React, SASS , NodeJS, ExpressJS with MongoDB</h3>
+<p>I am a problem solver. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.</p>
+<a 
+style="background: #24292e; padding: 5px 15px; color: #fff; border-radius: 5px;margin: 10px 0; display: inline-block"
+href="https://hidaytrahman.github.io/">WANT TO KNOW MORE?</a>
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
+<br />
+<br />
 
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
+📊 **Stat:**
+<!--START_SECTION:waka-->
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+```txt
+No activity tracked
+```
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
+<!--END_SECTION:waka-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<br />
+
+### 🛠 &nbsp;Tech Stack
+
+#### &nbsp; Frontend
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=StyledComponents&logoColor=563D7C)
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![LESS](https://img.shields.io/badge/-LESS-05122A?style=flat&logo=less)&nbsp;
+
+#### &nbsp; FE Frameworks and Libraries
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=FFA518)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
+
+#### &nbsp; Backend
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![REST](https://img.shields.io/badge/-RESTAPI-05122A?style=flat&logo=Rest)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=Mongoose)&nbsp;
+
+#### &nbsp; Tools
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=NPM)&nbsp;
+![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=Yarn)&nbsp;
+![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=Gulp)&nbsp;
+![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=ios)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+
+#### &nbsp; Other
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
+
+
+<br />
+<br />
+<h2>👀 Stats</h2>
+
+<div>
+  
+  <p align="center">
+  <b><em>Overall GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hidaytrahman" alt="GitHub Stats" /> <br/><br/>
 </p>
 
-**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
-<!-- BLOG-POST-LIST:START -->
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
-<!-- BLOG-POST-LIST:END -->
+  <div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-      <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
-    <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
-  <a href="https://gridsome.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/</a>
-    <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-      <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-    </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidaytrahman&hide=shell&langs_count=8&show_icons=true)](https://github.com/hidaytrahman/github-readme-stats)
 
+</div>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
+  <div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=hidaytrahman&hide=shell&langs_count=8&show_icons=true)](https://github-readme-stats.vercel.app/api/wakatime?username=hidaytrahman)
+
+</div>
+
+<br />
+
+<br />
+
+<h2>📫 How to reach me:</h2>
+<hr />
+<p>I'm almost everywhere. </p>
+
+Connect me on <a href="https://www.linkedin.com/in/hidaytrahman/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+-   Read Articles on [Dev.to](https://dev.to/hidaytrahman)
+-   Say Hi on [Skype](skype:live:hidaytrahman?cal)
+-   Also available on [Twitter](https://twitter.com/hidaytrahman) , [StackOverflow](https://stackoverflow.com/users/2927228/hidayt-rahman) , [Instagram](http://instagram.com/hidaytrahman)
