@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 ```js
 const profile = {
   name: 'Ananda Maulana Wahyudi',
-  bio: 'Junior Programmer Freelancer',
+  bio: 'Do anything, but let it produce joy',
+  url: 'http://anandamw.site/',
   skills: {
     frondend: [Javascript, ReactJs, TailwindCSS, Bootstrap],
     backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
-    tools: [Git, Github, VSCode, Postman],
+    tools: [Git, Github, VSCode, Postman, Docker],
     os: [Linux, Windows],
   },
   location: 'Indonesia, JawaTimur',
