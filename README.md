@@ -22,15 +22,15 @@ src="./img/banner.png" alt="banner"
 
 ```js
 const profile = {
-  name: "Ananda Maulana Wahyudi",
-  bio: "Junior Programmer Freelancer",
+  name: 'Ananda Maulana Wahyudi',
+  bio: 'Junior Programmer Freelancer',
   skills: {
-    frondend: [Javascript, ReactJs],
-    backend: [NodeJs, ExpressJs, PHP, Laravel],
-    tools: [Git, Github, VSCode],
+    frondend: [Javascript, ReactJs, TailwindCSS, Bootstrap],
+    backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
+    tools: [Git, Github, VSCode, Postman],
     os: [Linux, Windows],
   },
-  location: "Indonesia, JawaTimur",
+  location: 'Indonesia, JawaTimur',
   hobbies: [Coding, Photography, Travelling],
 };
 ```
