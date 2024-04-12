@@ -13,31 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hidayt Rahman | Bio Banner](banner-transparent.png)
+![Ananda Maulana Wahyudi | Bio Banner](/img/banner.png)
 
-<h2>I'm Hidayt Rahman! 👋</h2>
+<h2>I'm Ananda Maulana Wahyudi! 👋</h2>
 
 ```js
 const profile = {
-  name: "Hidayt Rahman",
-  bio: "I am a Senior front-end / MERN stack developer, and I have 10+ years of experience.",
+  name: "Ananda Maulana Wahyudi",
+  bio: "Junior Programmer Freelancer",
   skills: {
-     frontend: ["React", "JavaScript",  "TypeScript", "SCSS"],
-     backend: ["Node", "NestJS",  "MongoDB", "REST API"],
-     framework: ["NextJS", "ExpressJS", "Angular", "Bootstrap", "TailwindCSS", "MUI"],
-     architectures: [
-      "Monolithic Architecture",
-      "Modular Architecture",
-      "Component-Based Architecture",
-      "Single Page Application - SPA",
-      "BFF Pattern - Backend for front-end"
+    frondend: [Javascript, ReactJs],
+    backend: [NodeJs, ExpressJs, PHP, Laravel],
+    tools: [Git, Github, VSCode],
+    os: [Linux, Windows],
+  },
+  location: "Indonesia, JawaTimur",
+  hobbies: [Coding, Photography, Travelling],
+};
 
-     ],
-     tools: ["Github", "Jira", "CI & CD", "Figma", "Photoshop", "XCode", "NPM", "Yarn", "Postman", "GCP", "Github Actions", "Rest Clients"],
-     os: ["macOS", "Windows", "Linux"],
-     hobbies: [</> 💻, 📷, 🧳, ]
-  }
-}
 ```
 
 
