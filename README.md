@@ -27,7 +27,7 @@ const profile = {
     os: [Linux, Windows],
   },
   location: "Indonesia, JawaTimur",
-  Language: "English, Indonesia",
+  Language: [English, Indonesia],
   hobbies: [Coding, Photography, Travelling],
 };
 ```
