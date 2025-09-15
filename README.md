@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 const profile = {
   name: "Ananda Maulana Wahyudi",
   bio: "Freelancer|Programmer",
-  url: "https://anandamw.turbo-main.com/",
+  url: "https://anandamw.site/",
   skills: {
     frondend: [Javascript, ReactJS, React Native, TailwindCSS, Bootstrap],
     backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
