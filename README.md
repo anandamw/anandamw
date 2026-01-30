@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ```js
 const profile = {
   name: "Ananda Maulana Wahyudi",
-  bio: "Freelancer|Programmer",
+  bio: "Freelancer|Full-Stack Web Developer",
   url: "https://anandamw.site/",
   skills: {
     frondend: [Javascript, ReactJS, React Native, TailwindCSS, Bootstrap],
