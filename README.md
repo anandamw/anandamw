@@ -21,8 +21,8 @@ const profile = {
   bio: "Freelancer|Full-Stack Web Developer",
   url: "https://anandamw.site/",
   skills: {
-    frondend: [Javascript, ReactJS, React Native, TailwindCSS, Bootstrap],
-    backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
+    frondend: [ReactJS, Expo, NextJS, Shadcn UI],
+    backend: [PHP, Laravel],
     tools: [Git, Github, VSCode, Postman, Docker],
     os: [Linux, Windows],
     database: [Mysql, FireBase]
