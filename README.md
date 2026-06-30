@@ -1,21 +1,21 @@
 # Hi there, I'm Ananda Muhammad Wahyu 👋
 
-### Frontend Engineer | Flutter Developer | Backend Enthusiast
+### Frontend Engineer | Flutter Developer | Full Stack Enthusiast
 
-- 🎓 Informatics Student
-- 💻 Passionate about Mobile & Web Development
-- 🚀 Currently learning System Design & Cloud Computing
-- 🌐 Portfolio: https://your-portfolio.com
+- 💻 Passionate about Mobile, Web, and Backend Development
+- 🌱 Currently learning Cloud Computing & System Design
+- 🚀 Love building scalable applications with Flutter and Laravel
+- 🌐 Portfolio: https://anandamw.site
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anandamw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandamw&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -23,66 +23,70 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img width="70%" src="https://streak-stats.demolab.com?user=anandamw&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br>
 
-[![Ananda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Ananda's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandamw&theme=tokyo-night)](https://github.com/anandamw)
 
 ---
 
-## 🛠 Languages & Tools
+# 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,mysql,mongodb,postgres,php,laravel,python,java,cpp,git,github,docker,linux,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,laravel,php,nodejs,express,mysql,mongodb,postgres,python,java,cpp,git,github,docker,linux,vscode,figma,postman&perline=10"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📌 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 📱 Inventory Management System | Inventory management application | Flutter, Laravel |
-| 🛒 E-Commerce App | Shopping application | Flutter, Firebase |
-| 🌐 Company Profile | Responsive company website | React, Node.js |
+| Project | Description |
+|----------|-------------|
+| 📱 Mobile Apps | Flutter applications for Android & iOS |
+| 🌐 Web Apps | Laravel & Express.js Web Applications |
+| ☁️ Backend API | REST API, Authentication, Database |
+| 📦 Inventory System | Inventory Management Information System |
+| 🛒 E-Commerce | Full Stack Marketplace |
 
 ---
 
-## 📈 Profile Views
+# 📈 Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anandamw&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://anandamw.site">
+<img src="https://img.shields.io/badge/Portfolio-anandamw.site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/anandamw">
+<img src="https://img.shields.io/badge/GitHub-anandamw-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:anandamw.exp@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-anandamw.exp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+<div align="center">
+
+### 💡 Quote
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</div>
