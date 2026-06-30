@@ -21,18 +21,14 @@
 
 ### My GitHub Statistics
 
-⭐ **Total Stars:** —<br>
-📝 **Total Commits:** —<br>
-🔀 **Total PRs:** —<br>
-⚠️ **Total Issues:** —<br>
-📦 **Contributed to:** —
+<img src="https://github-readme-stats.vercel.app/api?username=anandamw&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=0D1117&include_all_commits=true&count_private=true"/>
 
 </td>
 <td valign="top" width="50%">
 
 ### My Programming Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandamw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandamw&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8"/>
 
 </td>
 </tr>
