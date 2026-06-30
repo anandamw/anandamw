@@ -12,12 +12,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anandamw&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anandamw&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anandamw&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anandamw&layout=compact&theme=cobalt&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandamw&radius=16&hide_border=true&theme=dracula&area=true&order=5" height="300" alt="activity-graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandamw&radius=16&hide_border=true&theme=cobalt&area=true&order=5" height="300" alt="activity-graph"/>
 </p>
 
 ---
