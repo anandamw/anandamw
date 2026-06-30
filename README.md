@@ -1,15 +1,19 @@
-# Hi there, I'm Ananda Muhammad Wahyu 👋
+# Hi there, I'm Ananda Maulana Wahyudi 👋
 
-### Frontend Engineer | Flutter Developer | Full Stack Enthusiast
+### 💻 Full Stack Developer | Mobile & Web Developer
 
-- 💻 Passionate about Mobile, Web, and Backend Development
-- 🌱 Currently learning Cloud Computing & System Design
-- 🚀 Love building scalable applications with Flutter and Laravel
+Passionate about building modern, scalable, and user-friendly applications for both **mobile** and **web** platforms. I enjoy turning ideas into real products with clean code, efficient architecture, and great user experiences.
+
+- 🚀 Full Stack Developer (Mobile & Web)
+- 📱 Flutter Developer
+- 🌐 Laravel & Node.js Developer
+- 💾 Experienced with SQL & NoSQL Databases
+- ☁️ Interested in Cloud Computing & System Design
 - 🌐 Portfolio: https://anandamw.site
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -29,29 +33,29 @@
 
 <br>
 
-[![Ananda's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandamw&theme=tokyo-night)](https://github.com/anandamw)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandamw&theme=tokyo-night)](https://github.com/anandamw)
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,laravel,php,nodejs,express,mysql,mongodb,postgres,python,java,cpp,git,github,docker,linux,vscode,figma,postman&perline=10"/>
 
-</p>
+</div>
 
 ---
 
-# 📌 Featured Projects
+# 🛠️ What I Do
 
-| Project | Description |
-|----------|-------------|
-| 📱 Mobile Apps | Flutter applications for Android & iOS |
-| 🌐 Web Apps | Laravel & Express.js Web Applications |
-| ☁️ Backend API | REST API, Authentication, Database |
-| 📦 Inventory System | Inventory Management Information System |
-| 🛒 E-Commerce | Full Stack Marketplace |
+- 📱 Mobile Application Development using Flutter
+- 🌐 Website Development using Laravel & Express.js
+- 🔗 REST API Development & Integration
+- 🔐 Authentication & Authorization
+- 🗄️ Database Design (MySQL, PostgreSQL, MongoDB)
+- ☁️ Cloud & Deployment
+- ⚡ Clean Architecture & Performance Optimization
 
 ---
 
@@ -68,15 +72,15 @@
 <p align="center">
 
 <a href="https://anandamw.site">
-<img src="https://img.shields.io/badge/Portfolio-anandamw.site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-anandamw.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/anandamw">
-<img src="https://img.shields.io/badge/GitHub-anandamw-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-anandamw-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:anandamw.exp@gmail.com">
-<img src="https://img.shields.io/badge/Email-anandamw.exp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-anandamw.exp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -85,8 +89,9 @@
 
 <div align="center">
 
-### 💡 Quote
+### 💬 Favorite Quote
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**
 
 </div>
